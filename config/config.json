@@ -1,0 +1,11 @@
+{
+    "db": {
+      "password": "",
+      "user": "sa",
+      "database" : "validaciones_2023"
+    },
+    "server": {
+      "address": "127.0.0.1",
+      "port": 5534
+    }
+  }
