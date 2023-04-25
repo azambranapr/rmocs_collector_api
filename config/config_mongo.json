@@ -1,0 +1,29 @@
+{
+  "db": {
+    "password": "QXBwbGljYTY5OTQrLSo=",
+    "user":     "cm9vdA==",
+    "database": "oilcollector_db",
+    "collections": [
+      {
+        "name": "batch"
+      },
+      {
+        "name": "establishment"
+      },
+      {
+        "name": "switchboardItems"
+      },
+      {
+        "name": "towns"
+      },
+      {
+        "name": "transaccion"
+      }
+    ]
+  },
+    "server": {
+      "drive": "mongodb",
+      "address": "127.0.0.1",
+      "port": 27017
+    }
+  }
