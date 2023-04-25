@@ -16,7 +16,7 @@ import (
 func main() {
 	fmt.Println("Welcome RMOCS 2023")
 
-	var err = services.LoadFiles("certificates/app_rmocs_api.rsa", "certificates/app_rmocs_api.rsa.pub")
+	var err = services.LoadFiles("certificates/app.rsa", "certificates/app.api.rsa.pub")
 	if err != nil {
 		log.Fatalf("error in certificates: %v", err)
 	}
