@@ -1,8 +1,8 @@
 {
   "db": {
-    "password": "QXBwbGljYTY5OTQrLSo=",
-    "user":     "cm9vdA==",
-    "database": "oilcollector_db",
+    "password": "aUpxemJ3WXBSekxFUEE2eA==",
+    "user":     "b2lsY29sbGVjdG9yZGI=",
+    "database": "oilcollectordb",
     "collections": [
       {
         "name": "batch"
@@ -22,8 +22,8 @@
     ]
   },
     "server": {
-      "drive": "mongodb",
-      "address": "127.0.0.1",
+      "drive": "mongodb+srv",
+      "address": "oilcollectordb.uijw70l.mongodb.net/?retryWrites=true&w=majority",
       "port": 27017
     }
   }
