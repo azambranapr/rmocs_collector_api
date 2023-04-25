@@ -13,7 +13,7 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-certificates/*.rsa
-certificates/*.pub
-*.rsa
-*.pub
+# certificates/*.rsa
+# certificates/*.pub
+# *.rsa
+# *.pub
